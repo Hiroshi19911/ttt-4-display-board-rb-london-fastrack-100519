@@ -3,4 +3,5 @@
 
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 
-puts board
+def display_board(board)
+end 
